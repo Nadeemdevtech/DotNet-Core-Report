@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExitGateReportPanel", "ExitGateReportPanel.csproj", "{3A298277-801E-449E-B715-53482BF36E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		publish|Any CPU = publish|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A298277-801E-449E-B715-53482BF36E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A298277-801E-449E-B715-53482BF36E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A298277-801E-449E-B715-53482BF36E44}.publish|Any CPU.ActiveCfg = publish|Any CPU
+		{3A298277-801E-449E-B715-53482BF36E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A298277-801E-449E-B715-53482BF36E44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F3D18C-6E1B-40C2-853C-0D5F73229ABB}
+	EndGlobalSection
+EndGlobal
